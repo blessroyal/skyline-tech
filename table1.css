@@ -1,0 +1,39 @@
+table, td, th{
+    border: none;
+     border-collapse: collapse; 
+    border-color: #96d4d9;
+    border-bottom: 1px solid;
+    text-align: center;
+}
+table{
+    width: 80%;
+    font-size: 20px;
+    margin: auto;
+}
+td, th{
+    padding: 10px;
+   
+}
+th{
+    background-color: dodgerblue;
+    color: white;
+}
+.tick{
+    
+color: green;
+font-size: 18px;
+padding-left: 5px;
+}
+
+.ex{
+    color: red;
+font-size: 18px;
+padding-left: 5px;
+}
+caption{
+    margin: auto;
+}
+
+tr:hover{
+    background-color: darkgrey;
+}
