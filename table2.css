@@ -1,0 +1,43 @@
+table, td, th{
+    border: 2px solid;
+     border-collapse: collapse; 
+    border-color: #96d4d9;
+    text-transform: capitalize;
+    
+}
+table{
+    width: 100%;
+    font-size: 20px;
+    
+    
+}
+td, th{
+    padding: 10px;
+}
+td button{
+    padding: 5px;
+}
+.container{
+    width: 70%;
+    margin: auto; 
+    
+}
+h1{
+    margin-bottom:20px ; 
+   
+}
+th{
+    background-color: dodgerblue;
+    color: white;
+}
+caption{
+    margin: auto;
+}
+tr:nth-child(even){
+    background-color: lightgray;
+}
+tr:hover{
+    background-color: darkgrey;
+}
+
+    
